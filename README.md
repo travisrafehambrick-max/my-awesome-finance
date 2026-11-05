@@ -1,6 +1,4 @@
-# My Awesome Finance
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# My Awesome Finance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Open-source finance: AI trading agents, quant libraries, market data APIs, prediction markets, and fintech platforms.
 
@@ -18,7 +16,6 @@ Entries are sorted by GitHub stars within each section.
 - [Payments & Agent Economy](#payments--agent-economy)
 - [Personal Finance & Accounting](#personal-finance--accounting)
 - [Awesome Lists](#awesome-lists)
-- [Contributing](#contributing)
 
 ## Trading Agents & Bots
 
@@ -27,9 +24,9 @@ Entries are sorted by GitHub stars within each section.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework. ⭐ 120.8k.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team. ⭐ 64.5k.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot. ⭐ 56.5k.
-- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - Vibe-Trading: Your Personal Trading Agent". ⭐ 37.7k.
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - Vibe-Trading: your personal trading agent. ⭐ 37.7k.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research. ⭐ 27.8k.
-- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - AI-Trader: 100% Fully-Automated Agent-Native Trading". ⭐ 23.1k.
+- [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - AI-Trader: 100% fully-automated agent-native trading. ⭐ 23.1k.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots. ⭐ 21.0k.
 - [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) - Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch your own multi-tenant trading SaaS with built-in user management, billing, payments, and settlement. ⭐ 13.5k.
 - [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models. ⭐ 8.4k.
@@ -56,7 +53,7 @@ Entries are sorted by GitHub stars within each section.
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#) ⭐ 22.4k.
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - The research engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one. ⭐ 9.7k.
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python. ⭐ 8.8k.
-- [pmorissette/bt](https://github.com/pmorissette/bt) - bt - flexible backtesting for Python. ⭐ 3.0k.
+- [pmorissette/bt](https://github.com/pmorissette/bt) - Flexible backtesting for Python, built on ffn. ⭐ 3.0k.
 - [stefan-jansen/zipline-reloaded](https://github.com/stefan-jansen/zipline-reloaded) - Zipline, a Pythonic Algorithmic Trading Library. ⭐ 2.0k.
 
 ## Quant & Portfolio
@@ -71,7 +68,7 @@ Entries are sorted by GitHub stars within each section.
 - [PyPortfolio/PyPortfolioOpt](https://github.com/PyPortfolio/PyPortfolioOpt) - Financial portfolio optimization in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity. ⭐ 6.1k.
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and NumPy. ⭐ 5.2k.
 - [dcajasn/Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization in Python. ⭐ 4.6k.
-- [pmorissette/ffn](https://github.com/pmorissette/ffn) - ffn - a financial function library for Python. ⭐ 2.7k.
+- [pmorissette/ffn](https://github.com/pmorissette/ffn) - Financial function library for Python. ⭐ 2.7k.
 - [skfolio/skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization, factor model construction, and risk management built on scikit-learn. ⭐ 2.6k.
 - [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python. ⭐ 1.7k.
 
@@ -128,7 +125,7 @@ Entries are sorted by GitHub stars within each section.
 - [aarora4/Awesome-Prediction-Market-Tools](https://github.com/aarora4/Awesome-Prediction-Market-Tools) - A curated list of Prediction Market Tools - AI Agents, Analytics, APIs, Dashboards, Copy Trading, Alerting, Tracking and More! ⭐ 793.
 - [caiovicentino/polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server) - 🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features. ⭐ 740.
 - [ryanfrigo/kalshi-ai-trading-bot](https://github.com/ryanfrigo/kalshi-ai-trading-bot) - The honest edge layer for Kalshi prediction markets - an agent-native toolkit (CLI, MCP server, Claude skill) that measures whether you actually beat the book instead of claiming it. ⭐ 646.
-- [lihanyu81/polymarket_lp_tool](https://github.com/lihanyu81/polymarket_lp_tool) - polymarket_lp_tool. ⭐ 619.
+- [lihanyu81/polymarket_lp_tool](https://github.com/lihanyu81/polymarket_lp_tool) - Liquidity-provider tool for Polymarket. ⭐ 619.
 - [tarpboi/Prediction-Markets-Trading-Bot-Toolkits](https://github.com/tarpboi/Prediction-Markets-Trading-Bot-Toolkits) - Rust trading bots for prediction markets — Predict.fun, Polymarket, Kalshi, Limitless. Copy Trading is production-ready; nine more strategies in development on the same execution core. Dry-run by default, self-custody, MIT. Polymarket trading bot Polymarket copy trading bot Polymarket arbitrage trading bot. ⭐ 522.
 - [OctagonAI/kalshi-trading-bot-cli](https://github.com/OctagonAI/kalshi-trading-bot-cli) - AI-native CLI for trading Kalshi prediction markets. Runs deep fundamental research, generates independent probability estimates, computes edge vs. live order books, and executes trades with Kelly sizing and a 5-gate risk engine. ⭐ 413.
 - [recogardtech/AutoPilotPM](https://github.com/recogardtech/AutoPilotPM) - Open-source autonomous trading system powered by AI, built to monitor and trade across 1,000+ markets including Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs and multiple EVM networks. Finds opportunities, places trades in real time and handles risk automatically. ⭐ 77.
