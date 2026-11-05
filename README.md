@@ -71,6 +71,8 @@ Entries are sorted by GitHub stars within each section.
 - [pmorissette/ffn](https://github.com/pmorissette/ffn) - Financial function library for Python. ⭐ 2.7k.
 - [skfolio/skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization, factor model construction, and risk management built on scikit-learn. ⭐ 2.6k.
 - [bashtage/arch](https://github.com/bashtage/arch) - ARCH models in Python. ⭐ 1.7k.
+- [rgaveiga/optionlab](https://github.com/rgaveiga/optionlab) - Python library for evaluating option trading strategies. ⭐ 586.
+- [vollib/py_vollib](https://github.com/vollib/py_vollib) - Option pricing, implied volatility, and greeks in Python. ⭐ 445.
 
 ## Financial LLMs & Models
 
